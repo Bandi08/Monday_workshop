@@ -1,0 +1,9 @@
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\bin\Debug\Monday Workshop.exe.config
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\bin\Debug\Monday Workshop.exe
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\bin\Debug\Monday Workshop.pdb
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday Workshop.csprojResolveAssemblyReference.cache
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday_Workshop.Form1.resources
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday_Workshop.Properties.Resources.resources
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday Workshop.csproj.GenerateResource.Cache
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday Workshop.exe
+c:\users\skoda andras\documents\visual studio 2015\Projects\Monday Workshop\Monday Workshop\obj\Debug\Monday Workshop.pdb

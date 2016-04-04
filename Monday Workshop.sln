@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monday Workshop", "Monday Workshop\Monday Workshop.csproj", "{8F0A373B-B3F3-44A3-BEDC-8432B24ED7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts", "..\Contacts\D_CSharp_Contacts\Contacts.csproj", "{2FF9AC7C-A204-4A0A-ABC8-420C8A06AA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0A373B-B3F3-44A3-BEDC-8432B24ED7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A373B-B3F3-44A3-BEDC-8432B24ED7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A373B-B3F3-44A3-BEDC-8432B24ED7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A373B-B3F3-44A3-BEDC-8432B24ED7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF9AC7C-A204-4A0A-ABC8-420C8A06AA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF9AC7C-A204-4A0A-ABC8-420C8A06AA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF9AC7C-A204-4A0A-ABC8-420C8A06AA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF9AC7C-A204-4A0A-ABC8-420C8A06AA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
